@@ -1,7 +1,7 @@
 [//]: # (Image References)
 
-[image1]: ./images/dog.png "dog"
-[image2]: ./images/human.png "human"
+[image1]: ./images/sample_dog_output.png "dog"
+[image2]: ./images/sample_human_output.png "human"
 
 
 # Dog Breed Classifier(Convolutional Neural Network)
