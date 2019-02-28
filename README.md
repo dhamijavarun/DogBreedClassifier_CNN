@@ -14,7 +14,7 @@ Here's a sample output for a dog and a Human
 
 ![dog][image1]
 
-![human ][image1]
+![human ][image2]
 
 ## Project Instructions
 
