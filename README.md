@@ -8,7 +8,7 @@
 
 ## Project Overview
 
-This a Convolutionqal Neural Network(CNN) project in the Deep Learning Nanodegree at Udacity. This projects attempts at predicting the dog breed from the user supplied image.
+This a Convolutional Neural Network(CNN) project in the Deep Learning Nanodegree at Udacity. This projects attempts at predicting the dog breed from the user supplied image.
 And funnily enough if the user passes a human image, it will tell you the dog breed the human looks similar to.
 Here's a sample output for a dog and a Human
 
